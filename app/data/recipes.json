@@ -1,0 +1,229 @@
+{
+  "recipes": [
+    {
+      "id": "0",
+      "title": "Rotina Matinal em Jejum",
+      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e",
+      "ingredients": [
+        "Raspador de língua de cobre/inox (ou colher de inox)",
+        "300-400ml de água mineral natural",
+        "5g de Glutamina (marca NOW recomendada)",
+        "20 gotas de própolis vermelho alcoólico",
+        "1 limão",
+        "50ml de água mineral em temperatura ambiente"
+      ],
+      "recipeText": "1. Ao acordar, em jejum, raspar a língua com um raspador de cobre/inox (caso não tenha, usar colher de inox). De dentro para fora. Fazer isso 4x.\n\n2. Tomar um copo de água mineral e natural (300 a 400ml).\n\n3. Prepare e tome o SHOT de Glutamina:\n- Misture 5g de Glutamina\n- Adicione 20 gotas de própolis vermelho alcoólico\n- Adicione suco de 1 limão\n- Complete com 50ml de água mineral em temperatura ambiente\n\nIMPORTANTE: Não esqueça de beber água o dia todo até às 19h. Após isso, beber apenas pequenos goles.",
+      "calories": "5",
+      "prepTime": "5 mins",
+      "meal_time": "fasting"
+    },
+    {
+      "id": "1",
+      "title": "Crepioca com Banana e Suco Vermelho",
+      "imageUrl": "https://images.unsplash.com/photo-1517673400267-0251440c45dc",
+      "ingredients": [
+        "2 ovos",
+        "1 banana",
+        "Frutas vermelhas para suco",
+        "1 fatia média de beterraba crua",
+        "1 fatia pequena de melancia com parte branca"
+      ],
+      "recipeText": "Prepare a crepioca misturando os ovos com goma de tapioca. Recheie com a banana. Para o suco, bata as frutas vermelhas com a beterraba e melancia. Não adicione açúcar! Alternativa: pode substituir a crepioca por panqueca de banana.",
+      "calories": "280",
+      "prepTime": "15 mins",
+      "meal_time": "breakfast"
+    },
+    {
+      "id": "2",
+      "title": "Cartola com Batido de Frutas Vermelhas",
+      "imageUrl": "https://images.unsplash.com/photo-1517673400267-0251440c45dc",
+      "ingredients": [
+        "1 banana (80g)",
+        "Canela a gosto",
+        "1 xícara de frutas vermelhas (85g)",
+        "150ml de leite de amêndoas",
+        "1 scoop de proteína de colágeno",
+        "1 colher de sopa de mel (opcional)"
+      ],
+      "recipeText": "Asse a banana aberta ao meio, polvilhe canela. Prepare o batido misturando frutas vermelhas, leite de amêndoas e colágeno. Pode adoçar com mel se desejar.",
+      "calories": "250",
+      "prepTime": "20 mins",
+      "meal_time": "breakfast"
+    },
+    {
+      "id": "3",
+      "title": "Avocado Toast com Suco Verde",
+      "imageUrl": "https://images.unsplash.com/photo-1517673400267-0251440c45dc",
+      "ingredients": [
+        "3 biscoitos de lentilha",
+        "1 colher de sobremesa de abacate (35g)",
+        "2 ovos inteiros (50g cada)",
+        "Azeite, limão e sal a gosto",
+        "1 folha de couve (25g)",
+        "100ml de água de coco ou mineral",
+        "1 kiwi (77g) ou abacaxi (75g) ou ½ maçã verde (80g)"
+      ],
+      "recipeText": "Amasse o abacate com azeite, limão e sal. Prepare os ovos (mexidos ou inteiros). Monte sobre os biscoitos de lentilha. Para o suco verde, bata a couve com água de coco. Sirva com a fruta escolhida.",
+      "calories": "320",
+      "prepTime": "15 mins",
+      "meal_time": "breakfast"
+    },
+    {
+      "id": "4",
+      "title": "Frango Grelhado com Arroz e Legumes",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+      "ingredients": [
+        "95g de frango (peito ou sobrecoxa)",
+        "2 xícaras de legumes (abobrinha, brócolis, couve-flor)",
+        "3 colheres de sopa de arroz branco com vegetais",
+        "Salada crua à vontade",
+        "8 uvas roxas ou 1 tangerina pequena ou 5 morangos ou 1 kiwi"
+      ],
+      "recipeText": "Grelhe ou cozinhe o frango. Cozinhe os legumes no vapor. Prepare o arroz com vegetais (cenoura, brócolis ou couve). Monte o prato com a salada crua de sua preferência. Finalize com uma sobremesa à sua escolha.",
+      "calories": "320",
+      "prepTime": "25 mins",
+      "meal_time": "lunch"
+    },
+    {
+      "id": "5",
+      "title": "Tilápia Grelhada com Batata Doce",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+      "ingredients": [
+        "100g de tilápia ou salmão",
+        "Tomilho, orégano e especiarias",
+        "2 xícaras de legumes (abóbora, couve, brócolis, couve-flor)",
+        "4 fatias pequenas de batata doce",
+        "Salada crua à vontade",
+        "8 uvas roxas ou 1 tangerina pequena ou 5 morangos ou 1 kiwi"
+      ],
+      "recipeText": "Tempere e grelhe a tilápia com as especiarias. Cozinhe os legumes no vapor. Prepare a batata doce. Monte o prato com a salada crua de sua preferência. Finalize com uma sobremesa à sua escolha.",
+      "calories": "350",
+      "prepTime": "30 mins",
+      "meal_time": "lunch"
+    },
+    {
+      "id": "6",
+      "title": "Frango Grelhado com Macarrão sem Glúten",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+      "ingredients": [
+        "100g de frango",
+        "Couve refogada à vontade",
+        "2 pegadores de macarrão sem glúten (Barilla ou Paganini)",
+        "Salada crua à vontade",
+        "8 uvas roxas ou 1 tangerina pequena ou 5 morangos ou 1 kiwi"
+      ],
+      "recipeText": "Grelhe o frango. Refogue a couve. Cozinhe o macarrão sem glúten conforme instruções da embalagem. Alternativa: prepare 2 batatinhas pequenas temperadas com tomilho, orégano, páprica, sal e pimenta. Monte o prato com a salada crua de sua preferência. Finalize com uma sobremesa à sua escolha.",
+      "calories": "380",
+      "prepTime": "25 mins",
+      "meal_time": "lunch"
+    },
+    {
+      "id": "7",
+      "title": "Chás da Manhã - Guia Completo",
+      "imageUrl": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12",
+      "ingredients": [
+        "Cúrcuma (raiz)",
+        "Boldo + Erva doce",
+        "Gengibre (raiz)",
+        "Hortelã",
+        "Alecrim",
+        "Chá Verde + Gengibre",
+        "Camomila",
+        "Erva doce",
+        "Barbatimão (opcional)",
+        "Água filtrada"
+      ],
+      "recipeText": "OPÇÕES DE CHÁ (escolha um por dia):\n\nPARA RAÍZES (Cúrcuma e Gengibre):\n- Use 1 pedaço pequeno da raiz/casca em 300ml de água fervente\n- Ferva por 10 minutos\n- Desligue o fogo e abafe\n- Deixe descansar 15 minutos\n- Coe e tome 2 xícaras por dia\n\nPARA DEMAIS CHÁS:\n- Use 1 colher de sopa de erva para 200ml de água\n- Para folhas e flores: Não deixe a água ferver demais\n- Despeje sobre a erva\n- Deixe infusionar 5-10 minutos\n\nRECOMENDAÇÕES ESPECIAIS:\n- Chá Verde + Gengibre: mínimo 3x na semana\n- Camomila: 3x na semana (pode misturar com gengibre)\n- Pode combinar 2 tipos de chás\n\nNOTA: Se usar chá em sachê, verifique se o único ingrediente é o chá de referência da embalagem.",
+      "calories": "0",
+      "prepTime": "15-25 mins",
+      "meal_time": "mid_morning"
+    },
+    {
+      "id": "8",
+      "title": "Mingau de Aveia com Frutas Vermelhas",
+      "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf",
+      "ingredients": [
+        "Aveia",
+        "½ scoop de proteína de colágeno",
+        "Leite vegetal",
+        "Morangos ou outras frutas vermelhas",
+        "Canela em pó",
+        "Chá de sua preferência"
+      ],
+      "recipeText": "1. Prepare o mingau de aveia com leite vegetal\n2. Adicione a proteína de colágeno e misture bem\n3. Pique as frutas vermelhas e adicione por cima\n4. Polvilhe canela a gosto\n5. Sirva acompanhado de um chá de sua preferência",
+      "calories": "200",
+      "prepTime": "10 mins",
+      "meal_time": "mid_afternoon"
+    },
+    {
+      "id": "9",
+      "title": "Muffin Proteico com Vegetais",
+      "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf",
+      "ingredients": [
+        "1 ovo",
+        "1 colher de sopa de vegetais picados (tomate, cenoura, brócolis ou espinafre)",
+        "1 pitada de sal",
+        "1 pitada de pimenta do reino",
+        "Azeite para untar (se necessário)",
+        "Chá de sua preferência"
+      ],
+      "recipeText": "1. Pré-aqueça o forno ou air fryer a 180°C\n2. Em uma tigela, misture o ovo com os vegetais picados\n3. Adicione sal e pimenta\n4. Bata com um garfo até formar espuma\n5. Unte uma forminha de muffin com azeite (não necessário se for de silicone)\n6. Despeje a mistura na forma\n7. Asse por 10-12 minutos\n8. Sirva acompanhado de um chá de sua preferência\n\nDICA: Varie os vegetais para diferentes sabores\nOBS: Pode ser conservado na geladeira por até dois dias",
+      "calories": "120",
+      "prepTime": "15 mins",
+      "meal_time": "mid_afternoon"
+    },
+    {
+      "id": "10",
+      "title": "Jantar Leve - Repetição do Almoço",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+      "ingredients": [
+        "Mesmos ingredientes do almoço",
+        "Carboidrato diferente do usado no almoço",
+        "SOBREMESA (escolher 1):",
+        "1 fatia pequena de melão picado",
+        "1 Kiwi",
+        "5 morangos"
+      ],
+      "recipeText": "Repita a mesma estrutura do almoço, mas troque o cereal/carboidrato por uma opção diferente da que você consumiu no almoço.\n\nFinalize com uma das opções de sobremesa:\n- 1 fatia pequena de melão picado\n- 1 Kiwi\n- 5 morangos",
+      "calories": "350",
+      "prepTime": "25 mins",
+      "meal_time": "dinner"
+    },
+    {
+      "id": "11",
+      "title": "Abóbora Assada com Frango e Legumes",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+      "ingredients": [
+        "80g de abóbora assada ou cozida (ou 87g de batata doce roxa - 3 fatias médias)",
+        "105g de peito de frango ou 2 sobrecoxas grandes",
+        "Mix de legumes congelados",
+        "SOBREMESA (escolher 1):",
+        "1 fatia pequena de melão picado",
+        "1 Kiwi",
+        "5 morangos"
+      ],
+      "recipeText": "1. Asse ou cozinhe a abóbora (ou batata doce roxa)\n2. Prepare o frango grelhado ou assado\n3. Prepare os legumes no vapor ou refogados\n\nFinalize com uma das opções de sobremesa:\n- 1 fatia pequena de melão picado\n- 1 Kiwi\n- 5 morangos",
+      "calories": "300",
+      "prepTime": "30 mins",
+      "meal_time": "dinner"
+    },
+    {
+      "id": "12",
+      "title": "Crepioca com Vegetais",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+      "ingredients": [
+        "3 ovos",
+        "Goma de tapioca",
+        "Vegetais cozidos variados",
+        "SOBREMESA (escolher 1):",
+        "1 fatia pequena de melão picado",
+        "1 Kiwi",
+        "5 morangos"
+      ],
+      "recipeText": "1. Prepare a crepioca misturando os 3 ovos com goma de tapioca\n2. Cozinhe os vegetais de sua preferência\n3. Sirva a crepioca com os vegetais\n\nFinalize com uma das opções de sobremesa:\n- 1 fatia pequena de melão picado\n- 1 Kiwi\n- 5 morangos",
+      "calories": "280",
+      "prepTime": "20 mins",
+      "meal_time": "dinner"
+    }
+  ]
+} 
