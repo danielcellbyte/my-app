@@ -69,8 +69,20 @@ export default function StackLayout() {
       />
       <Stack.Screen
         name="nutrition-plan"
-        options={{ 
+        options={{
           headerTitle: "My Nutrition Plan",
+        }}
+      />
+      <Stack.Screen
+        name="calculator"
+        options={{
+          headerTitle: "Calculator",
+          headerStyle: {
+            backgroundColor: '#000',
+          },
+          headerTitleStyle: {
+            color: '#fff',
+          },
         }}
       />
     </Stack>

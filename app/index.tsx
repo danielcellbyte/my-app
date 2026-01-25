@@ -53,6 +53,11 @@ export default function Home() {
             <Text style={styles.buttonText}>Artigos</Text>
           </Pressable>
         </Link>
+        <Link href="/(stack)/calculator" asChild>
+          <Pressable style={[styles.button, styles.calculatorButton]}>
+            <Text style={styles.buttonText}>Calculator</Text>
+          </Pressable>
+        </Link>
       </View>
     </View>
   );
@@ -113,5 +118,8 @@ const styles = StyleSheet.create({
   recipeMeta: {
     fontSize: 14,
     color: '#666',
+  },
+  calculatorButton: {
+    backgroundColor: '#333',
   },
 });
